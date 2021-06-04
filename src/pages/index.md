@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: ESG Blog
+title: ESG Blog 2
 image: /img/florestanaturaljpg.jpg
 heading: Great coffee with a conscience
 subheading: Environment, Social & Governament
